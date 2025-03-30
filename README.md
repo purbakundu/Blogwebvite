@@ -1,35 +1,35 @@
-Blog Website
+# Blog Website
 
-📌 Overview
+## 📌 Overview
 This is a **React-based blog platform** that provides information about different countries using the **REST Countries API**. Users can explore details like population, borders, and regions, interact with a **Google Map**, and engage with blog posts by **liking and commenting**.
 
-✨ Features
+## ✨ Features
 - 🌍 **Explore Country Data** – Fetch and display country details (name, region, population, borders)
 - 🗺 **Google Maps Integration** – Interactive maps to visualize locations
 - 💬 **Engage with Blogs** – Like and comment on blog posts
 - ⚡ **State Management** – Uses Redux Toolkit for efficient global state handling
 - 🎨 **Modern UI** – Responsive design with Tailwind CSS
 
- 🛠 Technologies Used
+## 🛠 Technologies Used
 - **Frontend**: React, Redux Toolkit, Tailwind CSS
 - **APIs**: REST Countries API, Google Maps API
 - **State Management**: Redux Toolkit
 - **Icons**: React Icons
 
-🚀 Getting Started
+## 🚀 Getting Started
 
- 1️⃣ Clone the Repository
+### 1️⃣ Clone the Repository
 ```sh
 git clone https://github.com/Keshab1113/Bloging.git
 cd Bloging
 ```
 
- 2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
 ```sh
 npm install
 ```
 
- 3️⃣ Set Up Environment Variables
+### 3️⃣ Set Up Environment Variables
 Create a **.env** file in the root directory and add:
 ```env
 VITE_GOOGLE_MAPS_API_KEY=your_google_maps_api_key
