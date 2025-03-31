@@ -20,7 +20,7 @@ This is a **React-based blog platform** that provides information about differen
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/purbakundu/Blogwebvite
+git clone git@github.com:purbakundu/Blogwebvite.git
 cd Bloging
 ```
 
