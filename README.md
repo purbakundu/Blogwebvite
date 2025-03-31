@@ -39,7 +39,7 @@ VITE_GOOGLE_MAPS_API_KEY=your_google_maps_api_key
 ```sh
 npm run dev
 ```
-The application will be available at **http://localhost:5173/**.
+The application will be available at **http://localhost:5174/**.
 
 ## 📂 Project Structure
 ```
